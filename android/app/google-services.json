@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199570936102",
+    "project_id": "fitbit-6554e",
+    "storage_bucket": "fitbit-6554e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199570936102:android:0d8b8459b64a673f4f31e7",
+        "android_client_info": {
+          "package_name": "com.example.fitness_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD0Svxoh8NHP3eSbTefZPxT26IfUc_LP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
